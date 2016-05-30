@@ -2,6 +2,10 @@
 
 https://kameri-mk.herokuapp.com/  
 
+## Инфо
+RAM: ~ 4 GB (мин: 3 GB)  
+NET: ~ 1 Mbps (мин: 0.5 Mbps)  
+
 ## Упатство
 
 1. Отвори го линкот
